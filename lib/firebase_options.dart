@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAvRC8fZe2OO6Y0llsHt3oITKSpzKp7TmQ',
+    apiKey: 'const String googleApiKey = "";',
     appId: '1:722550311716:web:2f60b5ea5bb60034ab41b1',
     messagingSenderId: '722550311716',
     projectId: 'database-gtr-101c5',
