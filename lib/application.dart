@@ -118,7 +118,7 @@ class _ApplicationPageState extends State<ApplicationPage> {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Container(
+                SizedBox(
                   width: 400,
                   child: TextField(
                     //
